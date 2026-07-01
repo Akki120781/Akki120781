@@ -5,7 +5,7 @@
 <div align="center">
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akshat Soni</h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&random=false&width=600&height=70&lines=3rd+Year+Engineering+Student;Full+Stack+(MERN)+Developer;AI%2FML+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&random=false&width=600&height=70&lines=Final+Year+Engineering+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
   
   <div>
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fakki120781%2Fakki120781&label=VISITORS&labelColor=%23000&countColor=%230A0209" alt="Profile Views" />
