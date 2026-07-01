@@ -36,7 +36,7 @@
 // AboutMe.ts
 export class Developer {
   name: string = "Akshat Soni";
-  education: string = "3rd Year Engineering Student";
+  education: string = "Final Year Engineering Student";
   location: string = "India";
   
   // Core Skills
